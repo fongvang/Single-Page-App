@@ -1,3 +1,6 @@
+This is a fictitious site that was created as a demonstration for Single-Page-Application.
+
+
 Snapshots of the SPA Web Page
 ![spa](https://user-images.githubusercontent.com/27201449/38230886-054f8a54-36c5-11e8-9df8-e34bf381e0bd.PNG)
 ![spa1](https://user-images.githubusercontent.com/27201449/38230887-0563d202-36c5-11e8-894d-0b09639e006c.PNG)
