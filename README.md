@@ -8,4 +8,4 @@ Snapshots provided below.
 ![spa3](https://user-images.githubusercontent.com/27201449/38230889-058be9f4-36c5-11e8-953d-7cbf404c7309.PNG)
 ![spa4](https://user-images.githubusercontent.com/27201449/38230890-05a18886-36c5-11e8-900d-25380ee266c9.PNG)
 
-View site with proovided URL above!
+View site with proovided URL above! Or visit:  https://limitless-temple-63985.herokuapp.com/
